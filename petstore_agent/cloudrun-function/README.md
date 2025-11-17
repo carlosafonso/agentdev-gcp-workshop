@@ -5,7 +5,7 @@ Just use the provided function URL: ASK_JULIA_FOR_URL
 
 
 Deployment:
-export PROJECT_ID="YOUR_PROJECT_ID"
+export PROJECT_ID="adk-tutorial-jhe ## Project Name: adk-workshop-jhe_ID"
 gcloud config set project $PROJECT_ID
 
 # Create a Docker repository named 'cloud-run-source-deploy' in the 'europe-southwest1' region
